@@ -11,7 +11,7 @@ what does that reveal about customer segments and demand patterns?
 Tableau Public, CSV data (Divvy trip data)
 
 ## Key Findings
-- [Confirma el número exacto] Members account for roughly [~57%] of trips,
+- Members account for roughly [~57%] of trips,
   while casual riders make up the remaining share.
 - Daily trip volume fluctuates in a weekly pattern, suggesting usage differs
   between weekdays and weekends.
