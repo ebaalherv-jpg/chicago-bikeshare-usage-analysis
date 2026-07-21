@@ -11,12 +11,9 @@ what does that reveal about customer segments and demand patterns?
 Tableau Public, CSV data (Divvy trip data)
 
 ## Key Findings
-- Members account for roughly [~57%] of trips,
-  while casual riders make up the remaining share.
-- Daily trip volume fluctuates in a weekly pattern, suggesting usage differs
-  between weekdays and weekends.
-- Electric bikes are used more heavily by members than by casual riders
-  across nearly every station analyzed.
+- Members account for roughly ~57% of trips, while casual riders make up the remaining share.
+- Daily trip volume fluctuates in a weekly pattern, suggesting usage differs between weekdays and weekends.
+- Electric bikes are used more heavily by members than by casual riders across nearly every station analyzed.
 
 ## Calculated Fields
    - `Duration (min)`: DATEDIFF('minute', [started_at], [ended_at])
