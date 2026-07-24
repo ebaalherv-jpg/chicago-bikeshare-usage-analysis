@@ -39,7 +39,7 @@ Tableau Public, CSV data (Divvy trip data)
    - `Duration (min)`: DATEDIFF('minute', [started_at], [ended_at])
 
 ## Dashboard
-[View the interactive dashboard on Tableau Public] (https://public.tableau.com/views/EmilioAlfonso-CmosediferenciaelusodebicicletasentremiembrosyusuarioscasualesenChicago/EmilioAlfonso-CmosediferenciaelusodebicicletasentremiembrosyusuarioscasualesenChicago?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/EmilioAlfonso-CmosediferenciaelusodebicicletasentremiembrosyusuarioscasualesenChicago/EmilioAlfonso-CmosediferenciaelusodebicicletasentremiembrosyusuarioscasualesenChicago?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Data Source
 Divvy trip data, publicly available at:
